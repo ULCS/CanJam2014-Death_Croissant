@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MAINLEVEL\Scripts\ballGun.cs">
+    <Files>
+      <File FileName="Assets\MAINLEVEL\Scripts\ballGun.cs" Line="130" Column="41" />
+      <File FileName="Assets\MAINLEVEL\Scripts\Player.cs" Line="29" Column="22" />
+      <File FileName="Assets\MAINLEVEL\Scripts\Turret2fire.cs" Line="1" Column="1" />
+      <File FileName="Assets\Turret5Dam.cs" Line="1" Column="1" />
+      <File FileName="Assets\MAINLEVEL\Scripts\Turret5.cs" Line="1" Column="1" />
+      <File FileName="Assets\Turret4.cs" Line="1" Column="1" />
+      <File FileName="Assets\Turret8.cs" Line="1" Column="1" />
+      <File FileName="Assets\MAINLEVEL\Scripts\Turret6.cs" Line="15" Column="26" />
+      <File FileName="Assets\MAINLEVEL\Scripts\Turret9.cs" Line="55" Column="30" />
+      <File FileName="Assets\Bomb.cs" Line="1" Column="1" />
+      <File FileName="Assets\End.cs" Line="15" Column="22" />
+      <File FileName="Assets\MAINLEVEL\Scripts\UiController.cs" Line="20" Column="25" />
+      <File FileName="Assets\MAINLEVEL\Scripts\Ball.cs" Line="6" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
